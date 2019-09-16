@@ -1,5 +1,8 @@
 # CityU CS4487 Machine Learning
-#### [Course Syllabus](http://www.cityu.edu.hk/catalogue/ug/201718/course/CS4487.htm)
+#### [Course Syllabus](https://www.cityu.edu.hk/catalogue/ug/201819/course/CS4487.htm)
+
+#### [Kaggle Link](https://www.kaggle.com/c/cityu-cs4487-2018-course-project-1/leaderboard)
+
 #### Group 1: Oops, it's not the ground truth
 
 ## Goal

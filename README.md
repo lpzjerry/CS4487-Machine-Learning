@@ -1,5 +1,4 @@
-# CityU CS4487 Machine Learning
-#### [Course Syllabus](https://www.cityu.edu.hk/catalogue/ug/201819/course/CS4487.htm)
+# Schizophrenia Patients Mortality Prediction
 
 #### [Kaggle Link](https://www.kaggle.com/c/cityu-cs4487-2018-course-project-1/leaderboard)
 
@@ -86,3 +85,5 @@ The final evaluation will be performed on Kaggle. See the below code about the e
             - DTW + anomaly detection
         
 ---
+#### [CityU CS4487 Machine Learning Syllabus](https://www.cityu.edu.hk/catalogue/ug/201819/course/CS4487.htm)
+
